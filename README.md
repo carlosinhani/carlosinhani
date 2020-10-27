@@ -2,7 +2,7 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+ <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=carlosinhani)
 
