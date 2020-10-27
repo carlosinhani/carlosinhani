@@ -7,6 +7,8 @@
  - 📚 Currently studying ReactJS
  - 💻 Languages: HTML, CSS, JavaScript and looking forward to learn even more!
  - 🔧 Tools: Visual Studio Code, GitHub
+ 
+[<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" />
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=carlosinhani)
 
