@@ -10,7 +10,7 @@
 [<img src ="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/carlosrodrigoinhani)
 [<img src ="https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white">](https://www.messenger.com/t/CarlosRodrigoInhani)
 [<img src ="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/u/1/#inbox)
-[<img src ="https://img.shields.io/badge/CURRICULUM-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://carlosinhani.github.io/curriculum/)
+[<img src ="https://img.shields.io/badge/CURRICULUM-%23100000.svg?&style=for-the-badge&Color=white">](https://carlosinhani.github.io/curriculum/)
 
 
  - 🌎 I'm from Cândido Mota/SP/Brazil
