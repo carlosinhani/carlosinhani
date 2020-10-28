@@ -17,5 +17,7 @@
  - 🌎 I'm from Cândido Mota/SP/Brazil
  - 😄 I really like to learn
  - 📚 Currently studying ReactJS
- - 💻 Languages: HTML, CSS, JavaScript and looking forward to learn even more!
- - 🔧 Tools: Visual Studio Code, GitHub
+ - 💻 **Languages:** HTML, CSS, JavaScript and looking forward to learn even more!
+ - 🔧 **Tools:** Visual Studio Code, GitHub
+ - 🎮 I like to play video games
+ - ⭐ Action Figure Collection
