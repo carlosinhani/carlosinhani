@@ -14,12 +14,12 @@
 [<img src="https://img.shields.io/badge/Digital Innovation One-%23000000.svg?&style=for-the-badge&logo=DigitalInnovationOne&logoColor=white" />](https://web.digitalinnovation.one/users/carlos_inhani)
 [<img src ="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/u/1/#inbox)
 
-## Desenvolvedor por Carlos Rodrigo
+## Desenvolvedor Carlos Rodrigo 
 
 [<img src ="https://img.shields.io/badge/CURRICULUM-%23100000.svg?&style=for-the-badge&Color=white">](https://carlosinhani.github.io/curriculum/)
 [<img src ="https://img.shields.io/badge/Buscador de Restaurantes%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">](https://restaurantes-digital.netlify.app/)
 
-
+´´´´´´´´´´´´´´
  - 🌎 I'm from Cândido Mota/SP/Brazil
  - 😄 I really like to learn
  - 📚 Currently studying ReactJS
