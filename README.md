@@ -1,4 +1,4 @@
-## 👉 Hi, I'm Carlos 
+## 👉 Hi, I'm Rodrigo
 
 ## Front-end developer jr. 👨‍💻
 
