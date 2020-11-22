@@ -25,6 +25,7 @@
 [<img src="https://img.shields.io/badge/Digital Innovation One-%23000000.svg?&style=for-the-badge&logo=DigitalInnovationOne&logoColor=white" />](https://web.digitalinnovation.one/users/carlos_inhani)
 [<img src ="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/u/1/#inbox)
 
+<img src="https://img.shields.io/badge/(18)99654-7334-25D366?&style=for-the-badge&logo=whatsapp&logoColor=black" />
 
  - 🌎 I'm from Cândido Mota/SP/Brazil
  - 😄 I really like to learn
