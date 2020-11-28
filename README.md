@@ -60,7 +60,7 @@
     <summary> 💻 Command click </summary>
 
 
-    # Lista de Comando para usar no Prompt de Comando. 👊 ✔️
+ # Lista de Comando para usar no Prompt de Comando. 👊 ✔️
 
 ### Instalando Expo.
 
