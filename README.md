@@ -3,7 +3,7 @@
 
 ## Front-end developer jr. 👨‍💻
 
-<h2>Hellooo! 👋 Welcome to my profile</h2>
+<h2 align='center'>Hellooo! 👋 Welcome to my profile</h2>
 
 
 <p align='center'><b><i>Programming language</i></b></p>
