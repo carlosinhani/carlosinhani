@@ -1,4 +1,6 @@
-## 👉 Hi, I'm Carlos
+<h1 align='center'>
+    👉 Hi, I'm Carlos
+</h1>
 
 ## Front-end developer jr. 👨‍💻
 
