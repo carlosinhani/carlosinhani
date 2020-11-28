@@ -6,7 +6,7 @@
 ### Hellooo! 👋 Welcome to my profile
 
 
-<p aling='center'>
+<p align='center'>
     Programming language
 </p>
 
