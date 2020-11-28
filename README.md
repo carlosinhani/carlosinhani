@@ -36,7 +36,7 @@
  
  
 <details>
-    <summary>👉👨<b>Rede Sociais</b> </summary>
+    <summary>👉👨<b>Social networks</b> </summary>
     
 -----------------------------------------------------------------------------    
    
