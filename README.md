@@ -1,7 +1,7 @@
-##  👉 Hi, I'm Carlos
+<h1 align='center'>👉 Hi, I'm Carlos</h1>
 
 
-## Front-end developer jr. 👨‍💻
+<h2 align='center'>Front-end developer jr. 👨‍💻</h2>
 
 <h3 align='center'>Hellooo! 👋 Welcome to my profile</h3>
 
