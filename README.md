@@ -7,7 +7,7 @@
 
 
 <p align='center'>
-    Programming language
+    <b><i>Programming language</i></b>
 </p>
 
 <p align='center'>
