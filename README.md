@@ -32,13 +32,12 @@
     <summary>👉 <b>Rede Sociais</b> </summary>
     
 -----------------------------------------------------------------------------    
-<p align='center'>    
+   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in//carlosrodrigoinhani/) [<img src ="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/carlosrodrigoinhani) [<img src ="https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white">](https://www.messenger.com/t/CarlosRodrigoInhani)
 
 [<img src="https://img.shields.io/badge/Digital Innovation One-%23FF4500.svg?&style=for-the-badge&logo=DigitalInnovationOne&logoColor=white" />](https://web.digitalinnovation.one/users/carlos_inhani) <img src ="https://img.shields.io/badge/carlos.inhani@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
 
 <img src="https://img.shields.io/badge/(18)99654 7334-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" />       
-</p>
     
 ## Sites 
 
