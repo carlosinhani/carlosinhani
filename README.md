@@ -95,7 +95,7 @@
 **Instalar Chocolatey:** choco install -y nodejs.install openjdk8
 
 **Instalar Android Studio:** ("https://developer.android.com/studio")
-##### Obs:
+### Obs:
  Algumas configurações específicas que tem ser feitas dentro do Android studios recomendo ver a documentação ("https://reactnative.dev/docs/environment-setup")
  
 **Instalar React Native cli modo global:** npm install -g react-native-cli
