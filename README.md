@@ -84,7 +84,7 @@
  
 **Executar a aplicação:** yarn start
 
-#### OBS: 
+## OBS: 
 *No browsers React vai estar no* **_(localhost:3000)_** *apos ser executado*
 
 ---------------------------------------------------
@@ -116,7 +116,7 @@
 
 **Executar a aplicação:** ng serve
 
-#### OBS: 
+## OBS: 
 *No browsers Angular vai estar no* **_(localhost:4200)_** *apos ser executado*
 
 
