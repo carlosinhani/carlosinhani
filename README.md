@@ -1,6 +1,6 @@
 ## Hi there! <img src="wave.gif" alt="Wave Emoji"  width="22.5px" />
 
-## Hi, I'm Carlos <img src="wave.gif" alt="Wave Emoji"  width="22.5px" />
+
 
 
 ## Front-end developer jr. 👨‍💻
