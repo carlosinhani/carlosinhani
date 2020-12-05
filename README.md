@@ -1,7 +1,4 @@
-## Hi there! <img src="wave.gif" alt="Wave Emoji"  width="22.5px" />
-
-
-
+# 👉 Hi, I'm **_Carlos_**
 
 ## Front-end developer jr. 👨‍💻
 
