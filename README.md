@@ -43,7 +43,7 @@
 
 [<img src="https://img.shields.io/badge/Digital Innovation One-%23FF4500.svg?&style=for-the-badge&logo=DigitalInnovationOne&logoColor=white" />](https://web.digitalinnovation.one/users/carlos_inhani) <img src ="https://img.shields.io/badge/carlos.inhani@gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
 
-<img src="https://img.shields.io/badge/(18)99654 7334-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/CarlosRodrigo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/(18)99654 7334-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/Carlos Rodrigo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
        
     
 ## Sites 
