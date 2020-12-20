@@ -128,7 +128,7 @@
 
 _Após a instalação entre na pasta do projeto e execute._ 
 
-**Executando json-server --watch db.json  *_(obs: lugar do db é nome do seu arquivo json)_*
+**Executando json-server --watch db.json**  *_(obs: lugar do db é nome do seu arquivo json)_*
 
 ##OBS
 
