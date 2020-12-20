@@ -120,6 +120,20 @@
 ## OBS: 
 *No browsers Angular vai estar no* **_(localhost:4200)_** *apos ser executado*
 
+--------------------------------------------------------------------------------
+
+### Instalando json server.
+
+**Instalar json server modo global:** npm install -g json-server 
+
+_Após a instalação entre na pasta do projeto e execute._ 
+
+**Executando json-server --watch db.json  *_(obs: lugar do db é nome do seu arquivo json)_*
+
+##OBS
+
+*No browsers json vai estar no* **_(localhost:3000)_** *apos ser executado*
+
 
 
 </details>
