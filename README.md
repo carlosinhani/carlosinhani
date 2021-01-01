@@ -119,16 +119,16 @@
 
 **Bootstrap para Angular. npm install ngx-bootstrap bootstrap --save
 
-**Angular json. 
+**Angular json.** 
 "styles": [
    "../node_modules/bootstrap/dist/css/bootstrap.min.css",
    "styles.css"
 ],
  
-**Código html Bootstrap 3.0.
+**Código html Bootstrap 3.0.**
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 
-**Código html Bootstrap 4.0.
+**Código html Bootstrap 4.0.**
 
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
 
