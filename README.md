@@ -125,9 +125,11 @@
    "styles.css"
 ],
  
-**Código html Bootstrap 3.0.** <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+**Código html Bootstrap 3.0.** 
+("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet")
 
-**Código html Bootstrap 4.0.** <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+**Código html Bootstrap 4.0.** 
+("https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet")
 
 ## OBS: 
 *No browsers Angular vai estar no* **_(localhost:4200)_** *apos ser executado*
