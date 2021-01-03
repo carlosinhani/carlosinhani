@@ -111,7 +111,7 @@
 
 ### Instalando Angular.
 
-**Instalar Angular modo global:** npm install -g @angular/cli
+**Instalar Angular modo global:** npm install -g @angular/cli@10.2.0
 
 **Criando um projeto:** ng new nome do projeto
 
