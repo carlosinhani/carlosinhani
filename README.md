@@ -76,7 +76,6 @@
 
 ### Instalando React. 
 
-
 **Criando Projeto React:** 
 
 **Estalação expo modo global:** npm install -g create-react-app
