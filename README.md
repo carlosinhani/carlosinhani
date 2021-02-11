@@ -23,7 +23,6 @@
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=carlosinhani&layout=compact" /></a>
    
 
-  
  - 🌎 I'm from Cândido Mota/SP/Brazil.
  - 😄 I really like to learn.
  - 📚 Currently studying ReactJS and Angular.
