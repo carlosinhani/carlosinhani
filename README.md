@@ -24,6 +24,7 @@
    
 
 
+
  - 🌎 I'm from Cândido Mota/SP/Brazil.
  - 😄 I really like to learn.
  - 📚 Currently studying ReactJS and Angular.
