@@ -46,7 +46,6 @@
 
 <img src="https://img.shields.io/badge/(18)99654 7334-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/Carlos Rodrigo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
        
-    
 ## Sites 
 
 [<img src ="https://img.shields.io/badge/Curriculum-100000?style=for-the-badge&logo=github&logoColor=white">](https://carlosinhani.github.io/curriculum/)
