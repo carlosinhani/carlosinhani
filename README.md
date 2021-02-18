@@ -24,7 +24,6 @@
    
 
 
-
  - 🌎 I'm from Cândido Mota/SP/Brazil.
  - 😄 I really like to learn.
  - 🏤 Working at Flex Smart
