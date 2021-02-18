@@ -27,6 +27,7 @@
 
  - 🌎 I'm from Cândido Mota/SP/Brazil.
  - 😄 I really like to learn.
+ - 🏤 Working at Flex Smart
  - 📚 Currently studying ReactJS and Angular.
  - 💻 **Languages:** HTML, CSS, JavaScript and looking forward to learn even more!
  - 🔧 **Tools:** Visual Studio Code, GitHub.
