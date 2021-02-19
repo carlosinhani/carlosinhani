@@ -57,6 +57,8 @@
 -------------------------------------------------------
 <details>
  <summary>Professional experience<summary>
+ [<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?">]
+  
 </details>
 
 --------------------------------------------------------
