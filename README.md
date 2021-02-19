@@ -56,8 +56,10 @@
 
 -------------------------------------------------------
 <details>
+ 
  <summary>Professional experience<summary>
- [<img src="https://img.shields.io/badge/FLEX-SMART-87CF3E?">](https://www.flexsmart.com.br/)
+ 
+ [<img src="https://img.shields.io/badge/FLEX SMART-87CF3E?">](https://www.flexsmart.com.br/)
   
 </details>
 
