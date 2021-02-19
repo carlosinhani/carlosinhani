@@ -26,7 +26,7 @@
 
  - 🌎 I'm from Cândido Mota/SP/Brazil.
  - 😄 I really like to learn.
- - 🏤 Working at Flex Smart
+ - 🏦 Working at Flex Smart
  - 📚 Currently studying ReactJS and Angular.
  - 💻 **Languages:** HTML, CSS, JavaScript and looking forward to learn even more!
  - 🔧 **Tools:** Visual Studio Code, GitHub.
@@ -62,11 +62,18 @@
  #### Experience
  -------------------------------------------------------
  [<img src="https://img.shields.io/badge/FLEX SMART-87CF3E?">](https://www.flexsmart.com.br/)
- - 🏤 Flex Smart Chapecó - Santa Catarina
+ - 🏦 Flex Smart Chapecó - Santa Catarina.
  - 🔨 Support technician.
- - 👍 Joined February / 2021
+ - 👍 Joined February / 2021.
+
 --------------------------------------------------------  
-[<img src="https://img.shields.io/badge/LIMA SOFTWARE-2e7eea?">]
+[<img src="https://img.shields.io/badge/LIMA SOFTWARE-2e7eea?">](http://www.limasoftware.com.br/)
+- 🏦 Lima Software Cândido Mota - São Paulo.
+- 🔨 Software Vendor.
+- 👍 Joined September / 2017.
+- ✋ I leave in March / 2018.
+---------------------------------------------------------
+
 </details>
 
 --------------------------------------------------------
