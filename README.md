@@ -55,7 +55,11 @@
 </details>
 
 -------------------------------------------------------
+<details>
+ <summary>Professional experience<summary>
+</details>
 
+--------------------------------------------------------
 <details>
     <summary> 💻 Command click </summary>
 
