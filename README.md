@@ -63,7 +63,7 @@
  [<img src="https://img.shields.io/badge/FLEX SMART-87CF3E?">](https://www.flexsmart.com.br/)
  
  - 🔨 Support technician.
- - 👍 02/2021
+ - 👍 Joined February / 2021
   
 </details>
 
