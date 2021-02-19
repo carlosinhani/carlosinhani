@@ -78,7 +78,7 @@
 
 --------------------------------------------------------
 <details>
-    <summary> 💻 Command click </summary>
+ <summary> 💻 <b>Command click</b> </summary>
 
 
  # Lista de Comando para usar no Prompt de Comando. 👊 ✔️
