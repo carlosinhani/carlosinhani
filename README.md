@@ -65,7 +65,6 @@
  - 🏦 Flex Smart Chapecó - Santa Catarina.
  - 🔨 Support technician.
  - 👍 Joined February / 2021.
-
 --------------------------------------------------------  
 [<img src="https://img.shields.io/badge/LIMA SOFTWARE-2e7eea?">](http://www.limasoftware.com.br/)
 - 🏦 Lima Software Cândido Mota - São Paulo.
