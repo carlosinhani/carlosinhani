@@ -71,7 +71,7 @@
 - 🏦 Lima Software Cândido Mota - São Paulo.
 - 🔨 Software Vendor.
 - 👍 Joined September / 2017.
-- ✋ I leave in March / 2018.
+- ✋ Departure March / 2018.
 </details>
 
 --------------------------------------------------------
