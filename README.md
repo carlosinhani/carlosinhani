@@ -24,14 +24,14 @@
    
 
 
- - 🌎 I'm from Cândido Mota/SP/Brazil.
- - 😄 I really like to learn.
- - 🏦 Working at Flex Smart
- - 📚 Currently studying ReactJS and Angular.
- - 💻 **Languages:** HTML, CSS, JavaScript and looking forward to learn even more!
- - 🔧 **Tools:** Visual Studio Code, GitHub.
- - 🎮 I like to play video games.
- - ⭐ Action Figure Collection.
+ - 🌎 _I'm from Cândido Mota/SP/Brazil._
+ - 😄 _I really like to learn._
+ - 🏦 _Working at Flex Smart_
+ - 📚 _Currently studying ReactJS and Angular._
+ - 💻 **_Languages:** HTML, CSS, JavaScript and looking forward to learn even more!_
+ - 🔧 **_Tools:** Visual Studio Code, GitHub._
+ - 🎮 _I like to play video games._
+ - ⭐ _Action Figure Collection._
 ----------------------------------------------------------------------------- 
  
  
