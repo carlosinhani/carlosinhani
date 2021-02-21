@@ -63,14 +63,14 @@
  -------------------------------------------------------
  [<img src="https://img.shields.io/badge/FLEX SMART-87CF3E?">](https://www.flexsmart.com.br/)
  - 🏦 _Flex Smart Chapecó - Santa Catarina._
- - 🔨 Support technician.
- - 👍 Joined February / 2021.
+ - 🔨 _Support technician._
+ - 👍 _Joined February / 2021_
 --------------------------------------------------------  
 [<img src="https://img.shields.io/badge/LIMA SOFTWARE-2e7eea?">](http://www.limasoftware.com.br/)
-- 🏦 Lima Software Cândido Mota - São Paulo.
-- 🔨 Software Vendor.
-- 👍 Joined September / 2017.
-- ✋ Departure March / 2018.
+- 🏦 _Lima Software Cândido Mota - São Paulo._
+- 🔨 _Software Vendor._
+- 👍 _Joined September / 2017._
+- ✋ _Departure March / 2018._
 </details>
 
 --------------------------------------------------------
