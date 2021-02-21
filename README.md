@@ -28,8 +28,8 @@
  - 😄 _I really like to learn._
  - 🏦 _Working at Flex Smart_
  - 📚 _Currently studying ReactJS and Angular._
- - 💻 **_Languages:** HTML, CSS, JavaScript and looking forward to learn even more!_
- - 🔧 **_Tools:** Visual Studio Code, GitHub._
+ - 💻 **_Languages:_** _HTML, CSS, JavaScript and looking forward to learn even more!_
+ - 🔧 **_Tools:_** _Visual Studio Code, GitHub._
  - 🎮 _I like to play video games._
  - ⭐ _Action Figure Collection._
 ----------------------------------------------------------------------------- 
