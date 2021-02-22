@@ -23,6 +23,7 @@
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=carlosinhani&layout=compact" /></a>
    
 
+
  - 🌎 _I'm from Cândido Mota/SP/Brazil._
  - 😄 _I really like to learn._
  - 🏦 _Working at Flex Smart_
