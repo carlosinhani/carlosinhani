@@ -51,7 +51,6 @@
 [<img src ="https://img.shields.io/badge/Curriculum-100000?style=for-the-badge&logo=github&logoColor=white">](https://carlosinhani.github.io/curriculum/)
 [<img src ="https://img.shields.io/badge/Buscador de Restaurantes%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">](https://restaurantes-digital.netlify.app/)
     
-
 </details>
 
 -------------------------------------------------------
