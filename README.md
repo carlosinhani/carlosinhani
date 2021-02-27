@@ -18,12 +18,12 @@
 
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=carlosinhani) <a href= "https://github.com/carlosinhani/github-readme-stats">
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=carlosinhani&layout=compact" /></a>
    
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  - 🌎 _I'm from Cândido Mota/SP/Brazil._
  - 😄 _I really like to learn._
  - 🏦 _Working at Flex Smart_
