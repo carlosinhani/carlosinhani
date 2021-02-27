@@ -20,7 +20,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=carlosinhani) <a href= "https://github.com/carlosinhani/github-readme-stats">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ualehosaini&exclude_repo=ualehosaini.github.io,free-for-dev&layout=compact&langs_count=8)](https://github.com/carlosinhani)
+
     <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=carlosinhani&layout=compact" /></a>
    
 
