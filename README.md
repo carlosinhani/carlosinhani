@@ -13,9 +13,7 @@
 
 
 <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330" /> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soldy&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
-</p>
+
 
 
 <b><i>Framework and library</i></b>
@@ -29,6 +27,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=carlosinhani) <a href= "https://github.com/carlosinhani/github-readme-stats">
  <a><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=carlosinhani&layout=compact" /></a>
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosinhani_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
    
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosinhani&" alt="carlosinhani" /></p> 
 
