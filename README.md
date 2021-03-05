@@ -28,7 +28,9 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=carlosinhani) <a href= "https://github.com/carlosinhani/github-readme-stats">
  <a><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=carlosinhani&layout=compact" /></a>
  
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/username=carlosinhani&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919</p>
+ <p>
+    <img src="https://github-readme-stats.vercel.app/api/tolangs/username=carlosinhani&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919
+</p>
    
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosinhani&" alt="carlosinhani" /></p> 
 
