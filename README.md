@@ -45,8 +45,7 @@
  - ⭐ _Action Figure Collection._
 ----------------------------------------------------------------------------- 
  
- 
- 
+
  
 <details>
     <summary>👉👨<b>Social networks</b> </summary>
