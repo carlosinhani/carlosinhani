@@ -30,7 +30,7 @@
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=carlosinhani) <a href= "https://github.com/carlosinhani/github-readme-stats">
  <a><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=carlosinhani&layout=compact" /></a>
  
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosinhani&" alt="carlosinhani" /></p> 
  
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  - 🌎 _I'm from Cândido Mota/SP/Brazil._
