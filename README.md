@@ -76,7 +76,7 @@
  -------------------------------------------------------
  [<img src="https://img.shields.io/badge/FLEX SMART-87CF3E?">](https://www.flexsmart.com.br/)
  - 🏦 _Flex Smart Chapecó - Santa Catarina._
- - 🔨 _Support technician._
+ - 🔨 _Computer support technician._
  - 👍 _Joined February / 2021_
 --------------------------------------------------------  
 [<img src="https://img.shields.io/badge/LIMA SOFTWARE-2e7eea?">](http://www.limasoftware.com.br/)
