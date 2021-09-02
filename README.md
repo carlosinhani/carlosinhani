@@ -76,7 +76,7 @@
  [<img src="https://img.shields.io/badge/FLEX SMART-87CF3E?">](https://www.flexsmart.com.br/)
  - 🏦 _Flex Smart Chapecó - Santa Catarina._
  --------------------------------------------------------   
- - 🔨 Front-end Programmer Angular Development._
+ - 🔨 _Front-end Programmer Angular Development._
  - 👍 _Joined September / 2021_   
  --------------------------------------------------------   
  - 🔨 _Computer support technician._
