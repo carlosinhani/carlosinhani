@@ -34,8 +34,7 @@
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosinhani&" alt="carlosinhani" /></p>  -->
  
     
-    
-    
+       
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  - 🌎 _I'm from Cândido Mota/SP/Brazil._
  - 😄 _I really like to learn._
@@ -76,6 +75,7 @@
  -------------------------------------------------------
  [<img src="https://img.shields.io/badge/FLEX SMART-87CF3E?">](https://www.flexsmart.com.br/)
  - 🏦 _Flex Smart Chapecó - Santa Catarina._
+ --------------------------------------------------------   
  - 🔨 Front-end Programmer Angular Development._
  - 👍 _Joined September / 2021_   
  --------------------------------------------------------   
@@ -85,6 +85,7 @@
 --------------------------------------------------------  
 [<img src="https://img.shields.io/badge/LIMA SOFTWARE-2e7eea?">](http://www.limasoftware.com.br/)
 - 🏦 _Lima Software Cândido Mota - São Paulo._
+--------------------------------------------------------       
 - 🔨 _Software Vendor._
 - 👍 _Joined September / 2017._
 - ✋ _Departure March / 2018._
