@@ -78,6 +78,7 @@
  - 🏦 _Flex Smart Chapecó - Santa Catarina._
  - 🔨 _Computer support technician._
  - 👍 _Joined February / 2021_
+ - ✋ _Departure August / 2021._
 --------------------------------------------------------  
 [<img src="https://img.shields.io/badge/LIMA SOFTWARE-2e7eea?">](http://www.limasoftware.com.br/)
 - 🏦 _Lima Software Cândido Mota - São Paulo._
