@@ -77,8 +77,13 @@
     
  ### Experience
  -------------------------------------------------------
+    
+ [<img src="https://img.shields.io/badge/FLEX SMART-87CF3E?">](https://www.flexsmart.com.br/)
+ - 🏦 _EDT Consultoria em TI Assis - São Paulo._   
+    
  [<img src="https://img.shields.io/badge/FLEX SMART-87CF3E?">](https://www.flexsmart.com.br/)
  - 🏦 _Flex Smart Chapecó - Santa Catarina._
+    
  --------------------------------------------------------   
  - 🔨 _Front-end Programmer Angular Development._
  - 👍 _Joined September / 2021_   
